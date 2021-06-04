@@ -1,0 +1,3 @@
+[submodule "src/components/games/game1"]
+	path = src/components/games/game1
+	url = https://github.com/nicolasmarino99/game1.git
